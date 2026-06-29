@@ -40,12 +40,6 @@ Geospatial web app built on Google Earth Engine enabling researchers and policym
 
 ---
 
-### 🚨 AWARE — Global Crisis Management Platform
-Real-time situational awareness and crisis response coordination platform used across global regions.  
-`React` `TypeScript` `Redux` `Google Maps API` `REST APIs`
-
----
-
 ### 🏗 KrateX — B2B Construction Procurement Marketplace
 Digital marketplace for the construction industry with KYC onboarding, product information management, role-based admin controls, and a custom UI component library.  
 `Next.js` `React 19` `TypeScript` `Zustand` `React Query` `Zod` `Tailwind CSS` `ShadCN` `Formio`
