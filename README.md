@@ -34,12 +34,6 @@ OpenAI SDK · Anthropic SDK · AI-assisted code review · Antigravity · GitHub 
 
 ## 🚀 Projects I've Shipped
 
-### 💊 Linx Health — US Pharmacy Billing Platform
-A full-featured SaaS platform for US pharmacy operations — prescription intake, NDC drug verification, fill lifecycle (upcoming → ready → completed → delivered), patient & prescriber management, and billing.  
-`React` `Next.js` `TypeScript` `Redux Toolkit` `Tailwind CSS` `Zod` `React Hook Form`
-
----
-
 ### 🌍 IWMI — Global Water Research Platform
 Geospatial web app built on Google Earth Engine enabling researchers and policymakers to map and analyse groundwater levels, terrestrial water storage, and surface water bodies worldwide.  
 `React` `Google Earth Engine` `React Google Maps` `Redux` `RTK Query` `Jest`
