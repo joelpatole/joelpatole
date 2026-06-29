@@ -1,7 +1,7 @@
 # Joel Richard Patole
 ### Full Stack Developer · React · Next.js · Node.js · TypeScript
 
-I build production-grade web applications — from US pharmacy platforms to global geospatial research tools. ~4 years of experience shipping across healthcare, ERP, crisis management, water research, and B2B marketplaces.
+I build production-grade web applications from ERP to global geospatial research tools. ~4 years of experience shipping across ERP, crisis management, water research, and B2B marketplaces.
 
 Currently at **ScaleReal Technologies**, previously **Sanicon Software**.
 
